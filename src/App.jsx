@@ -1,16 +1,16 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useContext } from 'react'
 import './App.css'
+import CurrentQuestion from './components/CurrentQuestion'
+import { QuizContext } from './QuizContext'
+import Results from './components/Results'
 
 function App() {
-
   const [questions, setQuestions] = useState([])
   const [currentQuestionNumber, setCurrentQuestionNumber] = useState(0)
+  const [userAnswers, setUserAnswers] = useState([])
   const [isLoading, setIsLoading] = useState(true)
   const [error, setError] = useState(null)
 
-  function handleQuestionChange () {
-    setCurrentQuestionNumber((q) => q + 1)
-  }
 
   useEffect(() => {
     const fetchQuestions = async () => {
@@ -33,19 +33,17 @@ function App() {
     fetchQuestions()
   }, [])
 
+  const quiz = {questions, setQuestions, currentQuestionNumber, setCurrentQuestionNumber, userAnswers, setUserAnswers, isLoading, setIsLoading, error, setError}
+  console.log(quiz)
+
   return (
-    <>
-    <h1>Amelia's Quiz Game 3000</h1>
-    {isLoading ? 'Loading questions' : ''}
-    {error ? `Error: ${error.message}` : ''}
-    {questions[currentQuestionNumber]?.question}
-    {questions[currentQuestionNumber]?.options[0]}
-    {questions[currentQuestionNumber]?.options[1]}
-    {questions[currentQuestionNumber]?.options[2]}
-    {questions[currentQuestionNumber]?.options[3]}
-    {questions.length - 1 <= currentQuestionNumber ? '' : <button onClick={handleQuestionChange}>Next Question</button>}
-    
-    </>
+    <QuizContext.Provider value={quiz}>
+      <h1>Amelia's Quiz Game 3000</h1>
+      
+      {currentQuestionNumber > questions.length - 1 ? <Results /> : <CurrentQuestion />}
+      
+
+    </QuizContext.Provider>
   )
 }
 
