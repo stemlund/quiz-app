@@ -8,11 +8,21 @@ function Results() {
     return (
         <>
         <h2>Results here!</h2>
-        {userAnswers.map((a) => (
-            <div key={a.userAnswer}>{a.userAnswer}
+        {questions.map((q) => {
+            const userAnswerObj = userAnswers.find((a) => a.id === q.id)
+            const userAnswer = userAnswerObj?.userAnswer
+            return (
+                <div key={q.id}>
+                    {q.question}
+                    Correct Answer: {q.answer}
 
-            </div>
-        ))}
+                    Your Answer: {userAnswer}
+
+                    You got it {q.answer === userAnswer ? 'right!' : 'wrong!'}
+                </div>
+            )
+            
+        })}
         </>
     )
 }
