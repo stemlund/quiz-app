@@ -3,8 +3,12 @@ import './App.css'
 import CurrentQuestion from './components/CurrentQuestion'
 import { QuizContext } from './QuizContext'
 import Results from './components/Results'
+import IntroForm from './components/IntroForm'
 
 function App() {
+  const [name, setName] = useState('')
+  
+
   const [questions, setQuestions] = useState([])
   const [currentQuestionNumber, setCurrentQuestionNumber] = useState(0)
   const [userAnswers, setUserAnswers] = useState([])
@@ -33,14 +37,24 @@ function App() {
     fetchQuestions()
   }, [])
 
-  const quiz = {questions, setQuestions, currentQuestionNumber, setCurrentQuestionNumber, userAnswers, setUserAnswers, isLoading, setIsLoading, error, setError}
+  const quiz = {name, setName, questions, setQuestions, currentQuestionNumber, setCurrentQuestionNumber, userAnswers, setUserAnswers, isLoading, setIsLoading, error, setError}
   console.log(quiz)
+
+
+  // ask for their name
+  // ask their difficulty level
+  // save difficulty level in state
+  // build questions array of random 10 questions at that difficulty level
+  // display current question of that questions array 
+  // show results of just those random questions array
 
   return (
     <QuizContext.Provider value={quiz}>
       <h1>Amelia's Quiz Game 3000</h1>
+
       
-      {currentQuestionNumber > questions.length - 1 ? <Results /> : <CurrentQuestion />}
+      <IntroForm />
+      {/* {currentQuestionNumber > 9 ? <Results /> : <CurrentQuestion />} */}
       
 
     </QuizContext.Provider>
