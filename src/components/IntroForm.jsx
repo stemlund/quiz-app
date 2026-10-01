@@ -1,4 +1,4 @@
-import { useContext } from 'react'
+import { useState, useContext } from 'react'
 import { QuizContext } from '../QuizContext'
 
 const questions = [
@@ -7,11 +7,26 @@ const questions = [
     {id: 2, text: "Pick a difficulty!", options: ['easy', 'medium', 'hard'], type: "select"},
 ]
 
+
+
 function IntroForm() {
-    const {name, setName} = useContext(QuizContext)
+    const {name, setName, introAnswers, setIntroAnswers } = useContext(QuizContext)
+    const [currentIndex, setCurrentIndex] = useState(0)
+
+    function handleAnswer() {
+
+        if(currentIndex < questions.length - 1) {
+                setCurrentIndex(currentIndex + 1)
+        }
+        
+    }
+
     return (
         <>   
-            Total Questions: {questions.length}
+            Question {currentIndex + 1} of {questions.length}
+
+            {currentIndex < questions.length - 1 ? <button onClick={handleAnswer}>Next</button> : <button>Let's Go {name}</button>}
+            
         </>
     )
 }

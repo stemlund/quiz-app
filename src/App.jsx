@@ -10,6 +10,7 @@ function App() {
   
 
   const [questions, setQuestions] = useState([])
+  const [introAnswers, setIntroAnswers] = useState([])
   const [currentQuestionNumber, setCurrentQuestionNumber] = useState(0)
   const [userAnswers, setUserAnswers] = useState([])
   const [isLoading, setIsLoading] = useState(true)
@@ -37,7 +38,7 @@ function App() {
     fetchQuestions()
   }, [])
 
-  const quiz = {name, setName, questions, setQuestions, currentQuestionNumber, setCurrentQuestionNumber, userAnswers, setUserAnswers, isLoading, setIsLoading, error, setError}
+  const quiz = {name, setName, questions, setQuestions, introAnswers, setIntroAnswers, currentQuestionNumber, setCurrentQuestionNumber, userAnswers, setUserAnswers, isLoading, setIsLoading, error, setError}
   console.log(quiz)
 
 
