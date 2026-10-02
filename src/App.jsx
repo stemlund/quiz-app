@@ -10,7 +10,7 @@ function App() {
   
 
   const [questions, setQuestions] = useState([])
-  const [introAnswers, setIntroAnswers] = useState([])
+  const [introAnswers, setIntroAnswers] = useState({})
   const [currentQuestionNumber, setCurrentQuestionNumber] = useState(0)
   const [userAnswers, setUserAnswers] = useState([])
   const [isLoading, setIsLoading] = useState(true)
