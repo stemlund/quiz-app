@@ -29,11 +29,12 @@ function IntroForm() {
                     <>
                         {q.text}
                         <div>
+                            {/* https://codepen.io/robstinson/pen/ExKBroN */}
                             {q.options.map((o) => (
-                                <>
-                                <input id={o} type="radio" name={q.id} onChange={(e) => setIntroAnswers((prev) => ({...prev, [q.id]: o}))} />
-                                <label htmlFor={o}>{o}</label>
-                                </>
+                                <span key={o}>
+                                    <input id={o} type="radio" name={q.id} onChange={(e) => setIntroAnswers((prev) => ({...prev, [q.id]: o}))} checked={introAnswers[q.id] === o} />
+                                    <label htmlFor={o}>{o}</label>
+                                </span>
                             ))}
                             
                         </div>
@@ -53,6 +54,10 @@ function IntroForm() {
         
     }
 
+    function handleStartQuiz () {
+        console.log('lets goooo!')
+    }
+
     return (
         <>   
             Question {currentIndex + 1} of {questions.length}
@@ -63,10 +68,10 @@ function IntroForm() {
 
             {currentIndex !== 0 && currentIndex < questions.length ? <button onClick={() => setCurrentIndex((prev) => prev - 1)}>Previous</button> : ''}
 
-            {currentIndex < questions.length - 1 ? <button onClick={handleAnswer}>Next</button> : <button>Let's Go {name}</button>}
+            {currentIndex < questions.length - 1 ? <button onClick={handleAnswer} disabled={introAnswers[currentQuestion.id] == undefined || introAnswers[currentQuestion.id] === ''}>Next</button> : <button onClick={handleStartQuiz} disabled={introAnswers[currentQuestion.id] == undefined || introAnswers[currentQuestion.id] === ''}>Let's Go {name}</button>}
 
             <p>{JSON.stringify(introAnswers)}</p>
-            
+            {console.log(introAnswers[currentQuestion.id])}
         </>
     )
 }
