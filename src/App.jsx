@@ -4,6 +4,7 @@ import CurrentQuestion from './components/CurrentQuestion'
 import { QuizContext } from './QuizContext'
 import Results from './components/Results'
 import IntroForm from './components/IntroForm'
+import Quiz from './components/Quiz'
 
 function App() {
   const [questions, setQuestions] = useState([])
@@ -51,9 +52,7 @@ function App() {
     <QuizContext.Provider value={quiz}>
       <h1>Amelia's Quiz Game 3000</h1>
 
-      {startQuiz ? 'questions!' : <IntroForm />}
-      {/* {currentQuestionNumber > 9 ? <Results /> : <CurrentQuestion />} */}
-      
+      {startQuiz ? <Quiz /> : <IntroForm />}     
 
     </QuizContext.Provider>
   )

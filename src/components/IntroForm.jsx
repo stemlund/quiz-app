@@ -66,12 +66,19 @@ function IntroForm() {
                 {renderQuestion(currentQuestion)}
             </div>
 
-            {currentIndex !== 0 && currentIndex < questions.length ? <button onClick={() => setCurrentIndex((prev) => prev - 1)}>Previous</button> : ''}
+            {currentIndex !== 0 && currentIndex < questions.length ? 
+                <button onClick={() => setCurrentIndex((prev) => prev - 1)}>Previous</button> 
+                : 
+                ''
+            }
 
-            {currentIndex < questions.length - 1 ? <button onClick={handleAnswer} disabled={introAnswers[currentQuestion.id] == undefined || introAnswers[currentQuestion.id] === ''}>Next</button> : <button onClick={() => setStartQuiz(true)} disabled={introAnswers[currentQuestion.id] == undefined || introAnswers[currentQuestion.id] === ''}>Let's Go {name}</button>}
+            {currentIndex < questions.length - 1 ? 
+                <button onClick={handleAnswer} disabled={introAnswers[currentQuestion.id] == undefined || introAnswers[currentQuestion.id] === ''}>Next</button> 
+                :
+                <button onClick={() => setStartQuiz(true)} disabled={introAnswers[currentQuestion.id] == undefined || introAnswers[currentQuestion.id] === ''}>Let's Go {name}</button>
+            }
 
             <p>{JSON.stringify(introAnswers)}</p>
-            {console.log(introAnswers[currentQuestion.id])}
         </>
     )
 }
