@@ -6,11 +6,9 @@ import Results from './components/Results'
 import IntroForm from './components/IntroForm'
 
 function App() {
-  const [name, setName] = useState('')
-  
-
   const [questions, setQuestions] = useState([])
   const [introAnswers, setIntroAnswers] = useState({})
+  const [startQuiz, setStartQuiz] = useState(false)
   const [currentQuestionNumber, setCurrentQuestionNumber] = useState(0)
   const [userAnswers, setUserAnswers] = useState([])
   const [isLoading, setIsLoading] = useState(true)
@@ -38,7 +36,7 @@ function App() {
     fetchQuestions()
   }, [])
 
-  const quiz = {name, setName, questions, setQuestions, introAnswers, setIntroAnswers, currentQuestionNumber, setCurrentQuestionNumber, userAnswers, setUserAnswers, isLoading, setIsLoading, error, setError}
+  const quiz = {questions, setQuestions, introAnswers, setIntroAnswers, startQuiz, setStartQuiz, currentQuestionNumber, setCurrentQuestionNumber, userAnswers, setUserAnswers, isLoading, setIsLoading, error, setError}
   console.log(quiz)
 
 
@@ -53,8 +51,7 @@ function App() {
     <QuizContext.Provider value={quiz}>
       <h1>Amelia's Quiz Game 3000</h1>
 
-      
-      <IntroForm />
+      {startQuiz ? 'questions!' : <IntroForm />}
       {/* {currentQuestionNumber > 9 ? <Results /> : <CurrentQuestion />} */}
       
 

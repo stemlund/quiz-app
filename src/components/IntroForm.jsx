@@ -10,7 +10,7 @@ const questions = [
 
 
 function IntroForm() {
-    const {name, setName, introAnswers, setIntroAnswers } = useContext(QuizContext)
+    const {introAnswers, setIntroAnswers, setStartQuiz } = useContext(QuizContext)
     const [currentIndex, setCurrentIndex] = useState(0)
     const currentQuestion = questions[currentIndex]
 
@@ -54,9 +54,9 @@ function IntroForm() {
         
     }
 
-    function handleStartQuiz () {
-        console.log('lets goooo!')
-    }
+    // function handleStartQuiz () {
+    //     console.log('lets goooo!')
+    // }
 
     return (
         <>   
@@ -68,7 +68,7 @@ function IntroForm() {
 
             {currentIndex !== 0 && currentIndex < questions.length ? <button onClick={() => setCurrentIndex((prev) => prev - 1)}>Previous</button> : ''}
 
-            {currentIndex < questions.length - 1 ? <button onClick={handleAnswer} disabled={introAnswers[currentQuestion.id] == undefined || introAnswers[currentQuestion.id] === ''}>Next</button> : <button onClick={handleStartQuiz} disabled={introAnswers[currentQuestion.id] == undefined || introAnswers[currentQuestion.id] === ''}>Let's Go {name}</button>}
+            {currentIndex < questions.length - 1 ? <button onClick={handleAnswer} disabled={introAnswers[currentQuestion.id] == undefined || introAnswers[currentQuestion.id] === ''}>Next</button> : <button onClick={() => setStartQuiz(true)} disabled={introAnswers[currentQuestion.id] == undefined || introAnswers[currentQuestion.id] === ''}>Let's Go {name}</button>}
 
             <p>{JSON.stringify(introAnswers)}</p>
             {console.log(introAnswers[currentQuestion.id])}
