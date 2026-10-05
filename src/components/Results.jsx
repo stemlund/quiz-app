@@ -3,12 +3,12 @@ import { QuizContext } from '../QuizContext'
 
 function Results() {
 
-    const {questions, setQuestions, currentQuestionNumber, setCurrentQuestionNumber, userAnswers, isLoading, setIsLoading, error, setError} = useContext(QuizContext)
-
+    const {questions, setQuestions, filteredQuestions, currentQuestionNumber, setCurrentQuestionNumber, userAnswers, isLoading, setIsLoading, error, setError} = useContext(QuizContext)
+    console.log(filteredQuestions)
     return (
         <>
         <h2>Results here!</h2>
-        {questions.map((q) => {
+        {filteredQuestions.map((q) => {
             const userAnswerObj = userAnswers.find((a) => a.id === q.id)
             const userAnswer = userAnswerObj?.userAnswer
             return (

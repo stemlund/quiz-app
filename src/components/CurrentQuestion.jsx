@@ -2,9 +2,9 @@ import { useContext } from "react";
 import { QuizContext } from '../QuizContext'
 
 
-function CurrentQuestion({filteredQuestions}) {
+function CurrentQuestion() {
 
-    const {name, setName, questions, setQuestions, currentQuestionNumber, setCurrentQuestionNumber, setUserAnswers, isLoading, setIsLoading, error, setError} = useContext(QuizContext)
+    const {name, setName, questions, setQuestions, filteredQuestions, setFilteredQuestions, currentQuestionNumber, setCurrentQuestionNumber, setUserAnswers, isLoading, setIsLoading, error, setError} = useContext(QuizContext)
 
     // function handleQuestionChange () {
     // setCurrentQuestionNumber((q) => q + 1)

@@ -8,6 +8,7 @@ import Quiz from './components/Quiz'
 
 function App() {
   const [questions, setQuestions] = useState([])
+  const [filteredQuestions, setFilteredQuestions] = useState([])
   const [introAnswers, setIntroAnswers] = useState({})
   const [startQuiz, setStartQuiz] = useState(false)
   const [currentQuestionNumber, setCurrentQuestionNumber] = useState(0)
@@ -37,7 +38,12 @@ function App() {
     fetchQuestions()
   }, [])
 
-  const quiz = {questions, setQuestions, introAnswers, setIntroAnswers, startQuiz, setStartQuiz, currentQuestionNumber, setCurrentQuestionNumber, userAnswers, setUserAnswers, isLoading, setIsLoading, error, setError}
+  useEffect(() => {
+    setFilteredQuestions(questions.filter((q) => q.category === introAnswers[2].toLowerCase() && q.difficulty === introAnswers[3].toLowerCase()))
+
+  }, [startQuiz])
+
+  const quiz = {questions, setQuestions, filteredQuestions, setFilteredQuestions, introAnswers, setIntroAnswers, startQuiz, setStartQuiz, currentQuestionNumber, setCurrentQuestionNumber, userAnswers, setUserAnswers, isLoading, setIsLoading, error, setError}
   console.log(quiz)
 
 
