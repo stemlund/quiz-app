@@ -9,7 +9,7 @@ function Quiz() {
         <>
             <h2>Hi {introAnswers[1]}</h2>
             <p>Let's do {introAnswers[2]} on level: {introAnswers[3]}</p>
-            {currentQuestionNumber > 9 ? <Results /> : <CurrentQuestion/>}
+            {currentQuestionNumber > filteredQuestions.length - 1 ? <Results /> : <CurrentQuestion/>}
         </>
     )
 }

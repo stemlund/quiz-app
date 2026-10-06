@@ -39,8 +39,9 @@ function App() {
   }, [])
 
   useEffect(() => {
-    setFilteredQuestions(questions.filter((q) => q.category === introAnswers[2].toLowerCase() && q.difficulty === introAnswers[3].toLowerCase()))
-
+    const allMatchedQuestions = questions.filter((q) => q.category === introAnswers[2].toLowerCase() && q.difficulty === introAnswers[3].toLowerCase())
+    const randomTen = allMatchedQuestions.sort((a, b) => Math.random() -0.5).slice(0,10)
+    setFilteredQuestions(randomTen)
   }, [startQuiz])
 
   const quiz = {questions, setQuestions, filteredQuestions, setFilteredQuestions, introAnswers, setIntroAnswers, startQuiz, setStartQuiz, currentQuestionNumber, setCurrentQuestionNumber, userAnswers, setUserAnswers, isLoading, setIsLoading, error, setError}
