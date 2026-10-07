@@ -57,7 +57,7 @@ function App() {
 
   return (
     <QuizContext.Provider value={quiz}>
-      <h1>Amelia's Quiz Game 3000</h1>
+      <h1>{introAnswers[1] ? introAnswers[1] : ''} Quiz Game</h1>
 
       {startQuiz ? <Quiz /> : <IntroForm />}     
 

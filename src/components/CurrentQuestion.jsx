@@ -24,6 +24,9 @@ function CurrentQuestion() {
     <>
         {isLoading ? 'Loading questions' : ''}
         {error ? `Error: ${error.message}` : ''}
+        
+        Question {currentQuestionNumber + 1} of {filteredQuestions.length}
+
         {filteredQuestions[currentQuestionNumber]?.question}
 
         <div className="grid grid-cols-2 gap-4">

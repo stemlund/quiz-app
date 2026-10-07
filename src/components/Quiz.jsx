@@ -8,7 +8,7 @@ function Quiz() {
     return (
         <>
             <h2>Hi {introAnswers[1]}</h2>
-            <p>Let's do {introAnswers[2]} on level: {introAnswers[3]}</p>
+            <p>Let's do {introAnswers[3]} {introAnswers[2]}</p>
             {currentQuestionNumber > filteredQuestions.length - 1 ? <Results /> : <CurrentQuestion/>}
         </>
     )
