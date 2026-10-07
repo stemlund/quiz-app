@@ -33,6 +33,8 @@ function CurrentQuestion() {
         {filteredQuestions[currentQuestionNumber]?.options.map((option, index) => <button key={index} className="p-10 bg-stone-200 text-2xl" onClick={() => handleAnswerSelection(option)}>{option}</button>)}
         </div>
 
+        Need a hint? {filteredQuestions[currentQuestionNumber]?.hint}
+
     </>
     )
 }

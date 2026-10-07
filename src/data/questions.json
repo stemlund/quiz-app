@@ -10,7 +10,8 @@
         ],
         "answer": "4",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Start at 2 and count up 2 more."
     },
     {
         "id": 2,
@@ -23,7 +24,8 @@
         ],
         "answer": "10",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Count by 5s two times."
     },
     {
         "id": 3,
@@ -36,7 +38,8 @@
         ],
         "answer": "2:3",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Keep the numbers in the same order the question names them: flour first, then milk."
     },
     {
         "id": 4,
@@ -49,7 +52,8 @@
         ],
         "answer": "2:3",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Write 12:18, then divide both numbers by their greatest common factor."
     },
     {
         "id": 5,
@@ -62,7 +66,8 @@
         ],
         "answer": "60",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Speed = distance ÷ time."
     },
     {
         "id": 6,
@@ -75,7 +80,8 @@
         ],
         "answer": "$2.50",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Divide the total cost by the number of notebooks."
     },
     {
         "id": 7,
@@ -88,7 +94,8 @@
         ],
         "answer": "9:15",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Multiply both parts of 3:5 by the same number."
     },
     {
         "id": 8,
@@ -101,7 +108,8 @@
         ],
         "answer": "$3.50",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "First find the cost of 1 apple, then multiply by 7."
     },
     {
         "id": 9,
@@ -114,7 +122,8 @@
         ],
         "answer": "30",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Divide the pages by the hours. 1.5 hours is one and a half hours."
     },
     {
         "id": 10,
@@ -127,7 +136,8 @@
         ],
         "answer": "16 oz for $3.60",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Find the price per ounce for each one and compare."
     },
     {
         "id": 11,
@@ -140,7 +150,8 @@
         ],
         "answer": "25",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Cats went from 4 to 20. What did you multiply by? Do the same to the dogs."
     },
     {
         "id": 12,
@@ -153,7 +164,8 @@
         ],
         "answer": "90",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Find how many pages it prints in 1 minute first."
     },
     {
         "id": 13,
@@ -166,7 +178,8 @@
         ],
         "answer": "2/9",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "The total number of parts is 2 + 7. Red is 2 of those parts."
     },
     {
         "id": 14,
@@ -179,7 +192,8 @@
         ],
         "answer": "40 minutes",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Find how many minutes it takes to jog 1 kilometer."
     },
     {
         "id": 15,
@@ -192,7 +206,8 @@
         ],
         "answer": "40",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "50% means half."
     },
     {
         "id": 16,
@@ -205,7 +220,8 @@
         ],
         "answer": "25",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "To find 10%, move the decimal point one place to the left."
     },
     {
         "id": 17,
@@ -218,7 +234,8 @@
         ],
         "answer": "75%",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Make a fraction with a denominator of 100."
     },
     {
         "id": 18,
@@ -231,7 +248,8 @@
         ],
         "answer": "60%",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Multiply the decimal by 100."
     },
     {
         "id": 19,
@@ -244,7 +262,8 @@
         ],
         "answer": "16",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "25% is the same as one fourth."
     },
     {
         "id": 20,
@@ -257,7 +276,8 @@
         ],
         "answer": "$8",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Find 10% of $40, then double it."
     },
     {
         "id": 21,
@@ -270,7 +290,8 @@
         ],
         "answer": "25%",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Write it as the fraction 15/60 and simplify."
     },
     {
         "id": 22,
@@ -283,7 +304,8 @@
         ],
         "answer": "35%",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Multiply the top and bottom by 5 to get a denominator of 100."
     },
     {
         "id": 23,
@@ -296,7 +318,8 @@
         ],
         "answer": "12",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "40% = 0.4. Multiply that by 30."
     },
     {
         "id": 24,
@@ -309,7 +332,8 @@
         ],
         "answer": "40",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "If 30% is 12, then 10% is 12 ÷ 3."
     },
     {
         "id": 25,
@@ -322,7 +346,8 @@
         ],
         "answer": "$51",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Find the discount first (10% + 5%), then subtract it from $60."
     },
     {
         "id": 26,
@@ -335,7 +360,8 @@
         ],
         "answer": "3/4",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Rewrite 1/2 as fourths before adding."
     },
     {
         "id": 27,
@@ -348,7 +374,8 @@
         ],
         "answer": "8",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Find 1/3 of 12 first, then double it."
     },
     {
         "id": 28,
@@ -361,7 +388,8 @@
         ],
         "answer": "3/4",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Divide the top and bottom by 6."
     },
     {
         "id": 29,
@@ -374,7 +402,8 @@
         ],
         "answer": "6",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Find 1/5 of 10, then multiply by 3."
     },
     {
         "id": 30,
@@ -387,7 +416,8 @@
         ],
         "answer": "1/2",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Rewrite 1/3 as sixths before subtracting."
     },
     {
         "id": 31,
@@ -400,7 +430,8 @@
         ],
         "answer": "1/2",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Multiply the tops together and the bottoms together, then simplify."
     },
     {
         "id": 32,
@@ -413,7 +444,8 @@
         ],
         "answer": "1 1/2",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Dividing by a fraction is the same as multiplying by its flip (reciprocal)."
     },
     {
         "id": 33,
@@ -426,7 +458,8 @@
         ],
         "answer": "18",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "How many thirds fit in one whole? Now do that for 6 wholes."
     },
     {
         "id": 34,
@@ -439,7 +472,8 @@
         ],
         "answer": "12",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "There are four 1/4-cups in 1 cup."
     },
     {
         "id": 35,
@@ -452,7 +486,8 @@
         ],
         "answer": "10",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Turn 2 1/2 into 5/2, then multiply by the reciprocal of 1/4."
     },
     {
         "id": 36,
@@ -465,7 +500,8 @@
         ],
         "answer": "2",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Change both mixed numbers into improper fractions first."
     },
     {
         "id": 37,
@@ -478,7 +514,8 @@
         ],
         "answer": "7",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "How many eighths are in seven eighths?"
     },
     {
         "id": 38,
@@ -491,7 +528,8 @@
         ],
         "answer": "6.25",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Line up the decimal points. You can write 3.5 as 3.50."
     },
     {
         "id": 39,
@@ -504,7 +542,8 @@
         ],
         "answer": "6.5",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Line up the decimal points and subtract."
     },
     {
         "id": 40,
@@ -517,7 +556,8 @@
         ],
         "answer": "0.12",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Multiply 4 x 3, then count the total decimal places in both numbers."
     },
     {
         "id": 41,
@@ -530,7 +570,8 @@
         ],
         "answer": "8",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Multiply both numbers by 10 to get rid of the decimals."
     },
     {
         "id": 42,
@@ -543,7 +584,8 @@
         ],
         "answer": "3",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "2.5 x 1 = 2.5, and 2.5 x 0.2 = 0.5."
     },
     {
         "id": 43,
@@ -556,7 +598,8 @@
         ],
         "answer": "0.5",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Compare the tenths place first."
     },
     {
         "id": 44,
@@ -569,7 +612,8 @@
         ],
         "answer": "80",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Multiply both numbers by 100 to get rid of the decimals."
     },
     {
         "id": 45,
@@ -582,7 +626,8 @@
         ],
         "answer": "$4.20",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Find the cost of 10 pencils, then add the cost of 2 more."
     },
     {
         "id": 46,
@@ -595,7 +640,8 @@
         ],
         "answer": "9",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Absolute value is the distance from zero."
     },
     {
         "id": 47,
@@ -608,7 +654,8 @@
         ],
         "answer": "-5",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "On a number line, numbers to the left are smaller."
     },
     {
         "id": 48,
@@ -621,7 +668,8 @@
         ],
         "answer": "-7",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "The opposite is the same distance from zero on the other side."
     },
     {
         "id": 49,
@@ -634,7 +682,8 @@
         ],
         "answer": "-4, -1, 0, 2",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "The more negative a number is, the smaller it is."
     },
     {
         "id": 50,
@@ -647,7 +696,8 @@
         ],
         "answer": "15",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Count up from -4 to 0, then from 0 to 11."
     },
     {
         "id": 51,
@@ -660,7 +710,8 @@
         ],
         "answer": "10",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Find each absolute value first, then add."
     },
     {
         "id": 52,
@@ -673,7 +724,8 @@
         ],
         "answer": "-25",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Find each absolute value first, then compare."
     },
     {
         "id": 53,
@@ -686,7 +738,8 @@
         ],
         "answer": "|-12|",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Below sea level means less than zero."
     },
     {
         "id": 54,
@@ -699,7 +752,8 @@
         ],
         "answer": "8",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Multiply 2 by itself 3 times."
     },
     {
         "id": 55,
@@ -712,7 +766,8 @@
         ],
         "answer": "25",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Multiply 5 by itself."
     },
     {
         "id": 56,
@@ -725,7 +780,8 @@
         ],
         "answer": "10,000",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "The exponent tells you how many zeros come after the 1."
     },
     {
         "id": 57,
@@ -738,7 +794,8 @@
         ],
         "answer": "81",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Multiply 3 by itself 4 times: 3 x 3 x 3 x 3."
     },
     {
         "id": 58,
@@ -751,7 +808,8 @@
         ],
         "answer": "11",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Remember the order of operations: multiply before you add."
     },
     {
         "id": 59,
@@ -764,7 +822,8 @@
         ],
         "answer": "10",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Do what is inside the parentheses first."
     },
     {
         "id": 60,
@@ -777,7 +836,8 @@
         ],
         "answer": "11",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Divide and multiply first, then add."
     },
     {
         "id": 61,
@@ -790,7 +850,8 @@
         ],
         "answer": "28",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Do the exponent first, then multiply, then add."
     },
     {
         "id": 62,
@@ -803,7 +864,8 @@
         ],
         "answer": "18",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Parentheses first, then divide and multiply from left to right."
     },
     {
         "id": 63,
@@ -816,7 +878,8 @@
         ],
         "answer": "19",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Exponent first, then multiply, then add and subtract from left to right."
     },
     {
         "id": 64,
@@ -829,7 +892,8 @@
         ],
         "answer": "6",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "List the factors of each number and find the biggest one they share."
     },
     {
         "id": 65,
@@ -842,7 +906,8 @@
         ],
         "answer": "12",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "List the multiples of each number and find the first one they share."
     },
     {
         "id": 66,
@@ -855,7 +920,8 @@
         ],
         "answer": "12",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "List the factors of each number and find the biggest one they share."
     },
     {
         "id": 67,
@@ -868,7 +934,8 @@
         ],
         "answer": "24",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "List the multiples of 12 and check which one 8 also divides into."
     },
     {
         "id": 68,
@@ -881,7 +948,8 @@
         ],
         "answer": "29",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "A prime number has only two factors: 1 and itself."
     },
     {
         "id": 69,
@@ -894,7 +962,8 @@
         ],
         "answer": "40",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Find the least common multiple of 10 and 8."
     },
     {
         "id": 70,
@@ -907,7 +976,8 @@
         ],
         "answer": "12(3 + 4)",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Find the GCF of 36 and 48 and put it outside the parentheses."
     },
     {
         "id": 71,
@@ -920,7 +990,8 @@
         ],
         "answer": "n + 5",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "\"More than\" means you add."
     },
     {
         "id": 72,
@@ -933,7 +1004,8 @@
         ],
         "answer": "21",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "3x means 3 times x."
     },
     {
         "id": 73,
@@ -946,7 +1018,8 @@
         ],
         "answer": "4y",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "\"Product\" means multiply."
     },
     {
         "id": 74,
@@ -959,7 +1032,8 @@
         ],
         "answer": "17",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Replace a with 6. Multiply first, then add."
     },
     {
         "id": 75,
@@ -972,7 +1046,8 @@
         ],
         "answer": "8x",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Combine like terms: add the numbers in front of x."
     },
     {
         "id": 76,
@@ -985,7 +1060,8 @@
         ],
         "answer": "3x + 12",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Multiply the 3 by each number inside the parentheses."
     },
     {
         "id": 77,
@@ -998,7 +1074,8 @@
         ],
         "answer": "22",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Square 5 first, then subtract."
     },
     {
         "id": 78,
@@ -1011,7 +1088,8 @@
         ],
         "answer": "7y + 8",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Add the y terms together and the plain numbers together."
     },
     {
         "id": 79,
@@ -1024,7 +1102,8 @@
         ],
         "answer": "3",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Terms are separated by + and - signs."
     },
     {
         "id": 80,
@@ -1037,7 +1116,8 @@
         ],
         "answer": "17",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Replace m with 5. Do the parentheses first."
     },
     {
         "id": 81,
@@ -1050,7 +1130,8 @@
         ],
         "answer": "6(2x + 3)",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Find the greatest common factor of 12 and 18 and factor it out."
     },
     {
         "id": 82,
@@ -1063,7 +1144,8 @@
         ],
         "answer": "x = 7",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "What number plus 8 equals 15? Subtract 8 from both sides."
     },
     {
         "id": 83,
@@ -1076,7 +1158,8 @@
         ],
         "answer": "x = 7",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Divide both sides by 4."
     },
     {
         "id": 84,
@@ -1089,7 +1172,8 @@
         ],
         "answer": "n = 21",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Add 9 to both sides."
     },
     {
         "id": 85,
@@ -1102,7 +1186,8 @@
         ],
         "answer": "y = 27",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Multiply both sides by 3."
     },
     {
         "id": 86,
@@ -1115,7 +1200,8 @@
         ],
         "answer": "x = 4",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "How many groups of 2.5 make 10?"
     },
     {
         "id": 87,
@@ -1128,7 +1214,8 @@
         ],
         "answer": "x = 18",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "If 2/3 of x is 12, then 1/3 of x is 6."
     },
     {
         "id": 88,
@@ -1141,7 +1228,8 @@
         ],
         "answer": "8",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "The value has to be bigger than 6, not equal to it."
     },
     {
         "id": 89,
@@ -1154,7 +1242,8 @@
         ],
         "answer": "t ≤ 10",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "\"At most\" means it can equal 10 or be less."
     },
     {
         "id": 90,
@@ -1167,7 +1256,8 @@
         ],
         "answer": "h ≥ 48",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "\"At least\" means it can equal 48 or be more."
     },
     {
         "id": 91,
@@ -1180,7 +1270,8 @@
         ],
         "answer": "15w = 120",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Each week adds $15, so the number of weeks gets multiplied by 15."
     },
     {
         "id": 92,
@@ -1193,7 +1284,8 @@
         ],
         "answer": "40 cm²",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Area of a rectangle = length x width."
     },
     {
         "id": 93,
@@ -1206,7 +1298,8 @@
         ],
         "answer": "30 in²",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Area of a triangle = 1/2 x base x height."
     },
     {
         "id": 94,
@@ -1219,7 +1312,8 @@
         ],
         "answer": "36 m²",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Area of a parallelogram = base x height."
     },
     {
         "id": 95,
@@ -1232,7 +1326,8 @@
         ],
         "answer": "24 ft³",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Volume = length x width x height."
     },
     {
         "id": 96,
@@ -1245,7 +1340,8 @@
         ],
         "answer": "125 cm³",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Volume of a cube = edge x edge x edge."
     },
     {
         "id": 97,
@@ -1258,7 +1354,8 @@
         ],
         "answer": "54 in²",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "A cube has 6 square faces. Find the area of one face and multiply by 6."
     },
     {
         "id": 98,
@@ -1271,7 +1368,8 @@
         ],
         "answer": "32 cm²",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Area of a trapezoid = 1/2 x (base 1 + base 2) x height."
     },
     {
         "id": 99,
@@ -1284,7 +1382,8 @@
         ],
         "answer": "3 ft³",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Volume = length x width x height. Start with 1/2 x 2."
     },
     {
         "id": 100,
@@ -1297,7 +1396,8 @@
         ],
         "answer": "Quadrant II",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "x is negative and y is positive. Quadrant I is top right, and they go counterclockwise."
     },
     {
         "id": 101,
@@ -1310,7 +1410,8 @@
         ],
         "answer": "Quadrant IV",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "x is positive and y is negative. Quadrant I is top right, and they go counterclockwise."
     },
     {
         "id": 102,
@@ -1323,7 +1424,8 @@
         ],
         "answer": "8",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "The x-values are the same, so count the distance between the y-values: 3 down to 0, then 0 down to -5."
     },
     {
         "id": 103,
@@ -1336,7 +1438,8 @@
         ],
         "answer": "(4, -7)",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "Reflecting over the x-axis keeps x the same and flips the sign of y."
     },
     {
         "id": 104,
@@ -1349,7 +1452,8 @@
         ],
         "answer": "7",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Add all the numbers, then divide by how many numbers there are."
     },
     {
         "id": 105,
@@ -1362,7 +1466,8 @@
         ],
         "answer": "7",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "Put the numbers in order from least to greatest and find the middle one."
     },
     {
         "id": 106,
@@ -1375,7 +1480,8 @@
         ],
         "answer": "7",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "The mode is the number that shows up the most."
     },
     {
         "id": 107,
@@ -1388,7 +1494,8 @@
         ],
         "answer": "22",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "Range = biggest number - smallest number."
     },
     {
         "id": 108,
@@ -1401,7 +1508,8 @@
         ],
         "answer": "7",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "With an even count of numbers, the median is halfway between the two middle numbers."
     },
     {
         "id": 109,
@@ -1414,7 +1522,8 @@
         ],
         "answer": "How many hours do students in my school sleep each night?",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "A statistical question has answers that vary from person to person."
     },
     {
         "id": 110,
@@ -1427,7 +1536,8 @@
         ],
         "answer": "36",
         "category": "math",
-        "difficulty": "easy"
+        "difficulty": "easy",
+        "hint": "There are 12 inches in 1 foot."
     },
     {
         "id": 111,
@@ -1440,7 +1550,8 @@
         ],
         "answer": "250",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "There are 100 centimeters in 1 meter."
     },
     {
         "id": 112,
@@ -1453,7 +1564,8 @@
         ],
         "answer": "48",
         "category": "math",
-        "difficulty": "medium"
+        "difficulty": "regular",
+        "hint": "There are 16 ounces in 1 pound."
     },
     {
         "id": 113,
@@ -1466,6 +1578,1589 @@
         ],
         "answer": "8",
         "category": "math",
-        "difficulty": "hard"
+        "difficulty": "hard",
+        "hint": "There are 2 pints in a quart and 2 cups in a pint."
+    },
+    {
+        "id": 114,
+        "question": "Who was the first President of the United States?",
+        "options": [
+            "George Washington",
+            "Abraham Lincoln",
+            "Thomas Jefferson",
+            "John Adams"
+        ],
+        "answer": "George Washington",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "He was a general in the Revolutionary War, and his face is on the $1 bill."
+    },
+    {
+        "id": 115,
+        "question": "In what year did the American colonies declare independence?",
+        "options": [
+            "1492",
+            "1776",
+            "1812",
+            "1865"
+        ],
+        "answer": "1776",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "The Revolutionary War had already been going on for about a year."
+    },
+    {
+        "id": 116,
+        "question": "Which document announced that the colonies were free from Great Britain?",
+        "options": [
+            "The Constitution",
+            "The Bill of Rights",
+            "The Declaration of Independence",
+            "The Magna Carta"
+        ],
+        "answer": "The Declaration of Independence",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "It begins with \"When in the Course of human events...\""
+    },
+    {
+        "id": 117,
+        "question": "Which explorer sailed across the Atlantic Ocean in 1492?",
+        "options": [
+            "Ferdinand Magellan",
+            "Christopher Columbus",
+            "Henry Hudson",
+            "Hernán Cortés"
+        ],
+        "answer": "Christopher Columbus",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "\"In fourteen hundred ninety-two, he sailed the ocean blue.\""
+    },
+    {
+        "id": 118,
+        "question": "What were the kings of ancient Egypt called?",
+        "options": [
+            "Emperors",
+            "Caesars",
+            "Pharaohs",
+            "Shoguns"
+        ],
+        "answer": "Pharaohs",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "This title comes from an Egyptian word meaning \"great house.\""
+    },
+    {
+        "id": 119,
+        "question": "Which river was most important to ancient Egypt?",
+        "options": [
+            "The Amazon",
+            "The Mississippi",
+            "The Tigris",
+            "The Nile"
+        ],
+        "answer": "The Nile",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "It is the longest river in Africa and flows north into the Mediterranean Sea."
+    },
+    {
+        "id": 120,
+        "question": "Which civilization built the Great Pyramids of Giza?",
+        "options": [
+            "Ancient Egyptians",
+            "Ancient Romans",
+            "Aztecs",
+            "Ancient Chinese"
+        ],
+        "answer": "Ancient Egyptians",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "This civilization is also famous for mummies and hieroglyphics."
+    },
+    {
+        "id": 121,
+        "question": "Who wrote most of the Declaration of Independence?",
+        "options": [
+            "Benjamin Franklin",
+            "Thomas Jefferson",
+            "George Washington",
+            "John Hancock"
+        ],
+        "answer": "Thomas Jefferson",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "He later became the third President."
+    },
+    {
+        "id": 122,
+        "question": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+        "options": [
+            "Santa Maria",
+            "Titanic",
+            "Mayflower",
+            "Half Moon"
+        ],
+        "answer": "Mayflower",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "The ship was named after a spring flower."
+    },
+    {
+        "id": 123,
+        "question": "Who was President of the United States during the Civil War?",
+        "options": [
+            "George Washington",
+            "Ulysses S. Grant",
+            "Andrew Jackson",
+            "Abraham Lincoln"
+        ],
+        "answer": "Abraham Lincoln",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "He gave the Gettysburg Address."
+    },
+    {
+        "id": 124,
+        "question": "Which ancient Greek city is known as the birthplace of democracy?",
+        "options": [
+            "Athens",
+            "Sparta",
+            "Rome",
+            "Cairo"
+        ],
+        "answer": "Athens",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "This city was named after the goddess Athena."
+    },
+    {
+        "id": 125,
+        "question": "What huge wall was built to protect ancient China from invaders?",
+        "options": [
+            "Hadrian's Wall",
+            "The Great Wall of China",
+            "The Berlin Wall",
+            "The Western Wall"
+        ],
+        "answer": "The Great Wall of China",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "It is thousands of miles long and has the name of the country in it."
+    },
+    {
+        "id": 126,
+        "question": "What was the first permanent English settlement in North America?",
+        "options": [
+            "Plymouth",
+            "Roanoke",
+            "Jamestown",
+            "Boston"
+        ],
+        "answer": "Jamestown",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "It was named after King James I of England."
+    },
+    {
+        "id": 127,
+        "question": "How many original colonies formed the United States?",
+        "options": [
+            "10",
+            "50",
+            "7",
+            "13"
+        ],
+        "answer": "13",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "Count the stripes on the American flag."
+    },
+    {
+        "id": 128,
+        "question": "Which holiday celebrates America's independence?",
+        "options": [
+            "The Fourth of July",
+            "Thanksgiving",
+            "Memorial Day",
+            "Labor Day"
+        ],
+        "answer": "The Fourth of July",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "Fireworks and parades happen in the middle of summer."
+    },
+    {
+        "id": 129,
+        "question": "Who rode at night in 1775 to warn colonists that British soldiers were coming?",
+        "options": [
+            "Benedict Arnold",
+            "Paul Revere",
+            "Samuel Adams",
+            "Nathan Hale"
+        ],
+        "answer": "Paul Revere",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "He was a silversmith from Boston, and a famous poem tells about his ride."
+    },
+    {
+        "id": 130,
+        "question": "Which Shoshone woman helped guide Lewis and Clark on their journey west?",
+        "options": [
+            "Pocahontas",
+            "Harriet Tubman",
+            "Sacagawea",
+            "Betsy Ross"
+        ],
+        "answer": "Sacagawea",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "Her face is on a U.S. gold dollar coin."
+    },
+    {
+        "id": 131,
+        "question": "Who led many enslaved people to freedom on the Underground Railroad?",
+        "options": [
+            "Susan B. Anthony",
+            "Rosa Parks",
+            "Clara Barton",
+            "Harriet Tubman"
+        ],
+        "answer": "Harriet Tubman",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "People called her \"Moses\" because she led her people to freedom."
+    },
+    {
+        "id": 132,
+        "question": "What was the picture-writing system of ancient Egypt called?",
+        "options": [
+            "Hieroglyphics",
+            "Cuneiform",
+            "The alphabet",
+            "Sanskrit"
+        ],
+        "answer": "Hieroglyphics",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "It used small pictures and symbols instead of letters."
+    },
+    {
+        "id": 133,
+        "question": "Which ancient civilization held the first Olympic Games?",
+        "options": [
+            "Ancient Romans",
+            "Ancient Greeks",
+            "Ancient Egyptians",
+            "Ancient Chinese"
+        ],
+        "answer": "Ancient Greeks",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "The games were held in honor of Zeus at Olympia."
+    },
+    {
+        "id": 134,
+        "question": "In which city is the ancient Colosseum located?",
+        "options": [
+            "Athens",
+            "Cairo",
+            "Rome",
+            "Paris"
+        ],
+        "answer": "Rome",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "It is the capital of Italy."
+    },
+    {
+        "id": 135,
+        "question": "Which Native American man helped the Pilgrims learn to plant corn?",
+        "options": [
+            "Sitting Bull",
+            "Geronimo",
+            "Crazy Horse",
+            "Squanto"
+        ],
+        "answer": "Squanto",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "He had learned English before the Pilgrims arrived."
+    },
+    {
+        "id": 136,
+        "question": "The 1621 harvest feast shared by the Pilgrims and the Wampanoag is remembered as what?",
+        "options": [
+            "The first Thanksgiving",
+            "The Boston Tea Party",
+            "Independence Day",
+            "The Gold Rush"
+        ],
+        "answer": "The first Thanksgiving",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "Today we celebrate it with a big meal in November."
+    },
+    {
+        "id": 137,
+        "question": "According to legend, who sewed the first American flag?",
+        "options": [
+            "Martha Washington",
+            "Betsy Ross",
+            "Abigail Adams",
+            "Dolley Madison"
+        ],
+        "answer": "Betsy Ross",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "She was an upholsterer in Philadelphia."
+    },
+    {
+        "id": 138,
+        "question": "What is the supreme law of the United States?",
+        "options": [
+            "The Declaration of Independence",
+            "The Mayflower Compact",
+            "The Constitution",
+            "The Articles of Confederation"
+        ],
+        "answer": "The Constitution",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "It begins with \"We the People.\""
+    },
+    {
+        "id": 139,
+        "question": "What are the first ten amendments to the Constitution called?",
+        "options": [
+            "The Preamble",
+            "The Articles",
+            "The Federalist Papers",
+            "The Bill of Rights"
+        ],
+        "answer": "The Bill of Rights",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "These amendments protect freedoms like free speech."
+    },
+    {
+        "id": 140,
+        "question": "Which country did the American colonies fight against in the Revolutionary War?",
+        "options": [
+            "Great Britain",
+            "France",
+            "Spain",
+            "Mexico"
+        ],
+        "answer": "Great Britain",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "The colonies belonged to this country before the war."
+    },
+    {
+        "id": 141,
+        "question": "Which ancient civilization is best known for making mummies?",
+        "options": [
+            "Ancient Greece",
+            "Ancient Egypt",
+            "Ancient Rome",
+            "Ancient China"
+        ],
+        "answer": "Ancient Egypt",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "Pharaohs were wrapped in cloth and buried in pyramids there."
+    },
+    {
+        "id": 142,
+        "question": "Benjamin Franklin is famous for his kite experiment with what?",
+        "options": [
+            "The telephone",
+            "The light bulb",
+            "Electricity",
+            "The airplane"
+        ],
+        "answer": "Electricity",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "He flew the kite during a thunderstorm."
+    },
+    {
+        "id": 143,
+        "question": "Who invented the telephone?",
+        "options": [
+            "Thomas Edison",
+            "The Wright brothers",
+            "Henry Ford",
+            "Alexander Graham Bell"
+        ],
+        "answer": "Alexander Graham Bell",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "His first words on it were, \"Mr. Watson, come here.\""
+    },
+    {
+        "id": 144,
+        "question": "In what year did the Wright brothers make the first airplane flight?",
+        "options": [
+            "1903",
+            "1776",
+            "1865",
+            "1969"
+        ],
+        "answer": "1903",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "It happened in the early 1900s at Kitty Hawk, North Carolina."
+    },
+    {
+        "id": 145,
+        "question": "The Thirteen Colonies were located along which ocean?",
+        "options": [
+            "The Pacific Ocean",
+            "The Atlantic Ocean",
+            "The Indian Ocean",
+            "The Arctic Ocean"
+        ],
+        "answer": "The Atlantic Ocean",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "The colonies were on the East Coast."
+    },
+    {
+        "id": 146,
+        "question": "What language did the ancient Romans speak?",
+        "options": [
+            "Greek",
+            "English",
+            "Latin",
+            "Spanish"
+        ],
+        "answer": "Latin",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "Many words in Spanish, French, and English come from this language."
+    },
+    {
+        "id": 147,
+        "question": "In 1849, thousands of people rushed to California to find what?",
+        "options": [
+            "Silver",
+            "Oil",
+            "Diamonds",
+            "Gold"
+        ],
+        "answer": "Gold",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "The people who came were called \"forty-niners.\""
+    },
+    {
+        "id": 148,
+        "question": "At the Boston Tea Party, colonists dumped what into Boston Harbor to protest taxes?",
+        "options": [
+            "Tea",
+            "Sugar",
+            "Coffee",
+            "Paper"
+        ],
+        "answer": "Tea",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "It is in the name of the event."
+    },
+    {
+        "id": 149,
+        "question": "In which city was the Declaration of Independence signed?",
+        "options": [
+            "Boston",
+            "Philadelphia",
+            "New York",
+            "Washington, D.C."
+        ],
+        "answer": "Philadelphia",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "Independence Hall is in this Pennsylvania city."
+    },
+    {
+        "id": 150,
+        "question": "The city of Washington, D.C. is named after which person?",
+        "options": [
+            "Thomas Jefferson",
+            "Christopher Columbus",
+            "George Washington",
+            "Abraham Lincoln"
+        ],
+        "answer": "George Washington",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "He was the first President."
+    },
+    {
+        "id": 151,
+        "question": "On which continent was ancient Egypt located?",
+        "options": [
+            "Asia",
+            "Europe",
+            "South America",
+            "Africa"
+        ],
+        "answer": "Africa",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "Egypt is in the northeast corner of this continent."
+    },
+    {
+        "id": 152,
+        "question": "Native Americans of the Great Plains depended on which animal for food, clothing, and shelter?",
+        "options": [
+            "Buffalo",
+            "Salmon",
+            "Sheep",
+            "Cattle"
+        ],
+        "answer": "Buffalo",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "This large animal with shaggy fur roamed the prairies in huge herds."
+    },
+    {
+        "id": 153,
+        "question": "Which ocean did Christopher Columbus cross to reach the Americas?",
+        "options": [
+            "The Pacific Ocean",
+            "The Indian Ocean",
+            "The Atlantic Ocean",
+            "The Arctic Ocean"
+        ],
+        "answer": "The Atlantic Ocean",
+        "category": "history",
+        "difficulty": "easy",
+        "hint": "This ocean is between Europe and the Americas."
+    },
+    {
+        "id": 154,
+        "question": "Who was the first emperor of Rome?",
+        "options": [
+            "Julius Caesar",
+            "Augustus",
+            "Nero",
+            "Constantine"
+        ],
+        "answer": "Augustus",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "He was Julius Caesar's adopted son, and the month of August is named after him."
+    },
+    {
+        "id": 155,
+        "question": "Ancient Mesopotamia was located between which two rivers?",
+        "options": [
+            "The Nile and the Congo",
+            "The Indus and the Ganges",
+            "The Tigris and the Euphrates",
+            "The Yellow and the Yangtze"
+        ],
+        "answer": "The Tigris and the Euphrates",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "Iraq is in this area today."
+    },
+    {
+        "id": 156,
+        "question": "What was the wedge-shaped writing system created by the Sumerians called?",
+        "options": [
+            "Cuneiform",
+            "Hieroglyphics",
+            "Latin",
+            "Sanskrit"
+        ],
+        "answer": "Cuneiform",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "The writing was pressed into wet clay with a reed stylus."
+    },
+    {
+        "id": 157,
+        "question": "Which Babylonian king created one of the earliest written codes of law?",
+        "options": [
+            "Nebuchadnezzar",
+            "Sargon",
+            "Cyrus",
+            "Hammurabi"
+        ],
+        "answer": "Hammurabi",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "His laws included \"an eye for an eye.\""
+    },
+    {
+        "id": 158,
+        "question": "What does the word \"Mesopotamia\" mean?",
+        "options": [
+            "Land of the pharaohs",
+            "Land between the rivers",
+            "Great river",
+            "Fertile desert"
+        ],
+        "answer": "Land between the rivers",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "\"Meso\" means middle and \"potamos\" means river."
+    },
+    {
+        "id": 159,
+        "question": "Which ancient Greek city-state was famous for its powerful army?",
+        "options": [
+            "Sparta",
+            "Athens",
+            "Corinth",
+            "Troy"
+        ],
+        "answer": "Sparta",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "Boys from this city-state started military training at age 7."
+    },
+    {
+        "id": 160,
+        "question": "In Greek mythology, who was the king of the gods?",
+        "options": [
+            "Apollo",
+            "Poseidon",
+            "Zeus",
+            "Ares"
+        ],
+        "answer": "Zeus",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "He threw lightning bolts and lived on Mount Olympus."
+    },
+    {
+        "id": 161,
+        "question": "Whose expedition was the first to sail all the way around the world?",
+        "options": [
+            "Christopher Columbus",
+            "Vasco da Gama",
+            "Francis Drake",
+            "Ferdinand Magellan"
+        ],
+        "answer": "Ferdinand Magellan",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "He died on the journey, but his crew finished the trip in 1522."
+    },
+    {
+        "id": 162,
+        "question": "What was the Mayflower Compact?",
+        "options": [
+            "An agreement by the Pilgrims to govern themselves",
+            "A peace treaty with Native Americans",
+            "A tax law passed by Britain",
+            "The first U.S. Constitution"
+        ],
+        "answer": "An agreement by the Pilgrims to govern themselves",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "It was signed on board the ship before the Pilgrims landed."
+    },
+    {
+        "id": 163,
+        "question": "Why did the Pilgrims travel to America?",
+        "options": [
+            "To find gold",
+            "To practice their religion freely",
+            "To fight the French",
+            "To trade spices"
+        ],
+        "answer": "To practice their religion freely",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "The Pilgrims were Separatists who wanted to leave the Church of England."
+    },
+    {
+        "id": 164,
+        "question": "Which colony was founded by William Penn?",
+        "options": [
+            "Virginia",
+            "Georgia",
+            "Pennsylvania",
+            "Maryland"
+        ],
+        "answer": "Pennsylvania",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "The colony's name means \"Penn's woods.\""
+    },
+    {
+        "id": 165,
+        "question": "What did colonists mean by \"No taxation without representation\"?",
+        "options": [
+            "They should not be taxed by Parliament without having a vote in it",
+            "They wanted lower taxes on land",
+            "They refused to pay any taxes ever",
+            "They wanted to tax Great Britain"
+        ],
+        "answer": "They should not be taxed by Parliament without having a vote in it",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "Colonists had no members in the British Parliament."
+    },
+    {
+        "id": 166,
+        "question": "The Stamp Act of 1765 placed a tax on what?",
+        "options": [
+            "Tea",
+            "Printed paper like newspapers and documents",
+            "Sugar",
+            "Glass and paint"
+        ],
+        "answer": "Printed paper like newspapers and documents",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "Colonists had to buy an official stamp for many printed items."
+    },
+    {
+        "id": 167,
+        "question": "Where were the first battles of the American Revolution fought?",
+        "options": [
+            "Gettysburg",
+            "Yorktown",
+            "Bunker Hill",
+            "Lexington and Concord"
+        ],
+        "answer": "Lexington and Concord",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "These two Massachusetts towns were fought over on April 19, 1775."
+    },
+    {
+        "id": 168,
+        "question": "At which battle did British General Cornwallis surrender, ending major fighting in the Revolutionary War?",
+        "options": [
+            "Yorktown",
+            "Saratoga",
+            "Trenton",
+            "Lexington"
+        ],
+        "answer": "Yorktown",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "This battle in Virginia took place in 1781."
+    },
+    {
+        "id": 169,
+        "question": "Which European country sent soldiers and warships to help the Americans win the Revolution?",
+        "options": [
+            "Germany",
+            "France",
+            "Russia",
+            "Portugal"
+        ],
+        "answer": "France",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "The Marquis de Lafayette came from this country."
+    },
+    {
+        "id": 170,
+        "question": "From which country did the United States buy the Louisiana Territory in 1803?",
+        "options": [
+            "Spain",
+            "Great Britain",
+            "France",
+            "Mexico"
+        ],
+        "answer": "France",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "Napoleon sold the land to raise money for his wars."
+    },
+    {
+        "id": 171,
+        "question": "Which President made the Louisiana Purchase?",
+        "options": [
+            "James Madison",
+            "John Adams",
+            "George Washington",
+            "Thomas Jefferson"
+        ],
+        "answer": "Thomas Jefferson",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "He was the third President, and he also wrote the Declaration of Independence."
+    },
+    {
+        "id": 172,
+        "question": "Lewis and Clark were sent to explore which land?",
+        "options": [
+            "The Louisiana Purchase",
+            "Florida",
+            "Alaska",
+            "Texas"
+        ],
+        "answer": "The Louisiana Purchase",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "The President wanted to learn about the land he had just bought."
+    },
+    {
+        "id": 173,
+        "question": "What are the three branches of the U.S. government?",
+        "options": [
+            "Federal, State, and Local",
+            "Legislative, Executive, and Judicial",
+            "Army, Navy, and Marines",
+            "President, Governor, and Mayor"
+        ],
+        "answer": "Legislative, Executive, and Judicial",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "One makes laws, one carries out laws, and one judges laws."
+    },
+    {
+        "id": 174,
+        "question": "Which branch of government makes the laws?",
+        "options": [
+            "Executive",
+            "Judicial",
+            "Legislative",
+            "Military"
+        ],
+        "answer": "Legislative",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "This branch is Congress."
+    },
+    {
+        "id": 175,
+        "question": "The War of 1812 was fought between the United States and which country?",
+        "options": [
+            "France",
+            "Spain",
+            "Mexico",
+            "Great Britain"
+        ],
+        "answer": "Great Britain",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "The British burned the White House during this war."
+    },
+    {
+        "id": 176,
+        "question": "Who wrote \"The Star-Spangled Banner\"?",
+        "options": [
+            "Francis Scott Key",
+            "Thomas Jefferson",
+            "Paul Revere",
+            "Benjamin Franklin"
+        ],
+        "answer": "Francis Scott Key",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "He wrote it while he watched the attack on Fort McHenry."
+    },
+    {
+        "id": 177,
+        "question": "What was the Trail of Tears?",
+        "options": [
+            "A route to the California gold fields",
+            "The forced removal of the Cherokee and other Native nations from their homelands",
+            "An Underground Railroad route",
+            "The path Lewis and Clark followed"
+        ],
+        "answer": "The forced removal of the Cherokee and other Native nations from their homelands",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "Thousands of people died on this forced march to Indian Territory."
+    },
+    {
+        "id": 178,
+        "question": "The transcontinental railroad, finished in 1869, connected which two parts of the country?",
+        "options": [
+            "The North and the South",
+            "Texas and Florida",
+            "The East and the West Coast",
+            "Canada and Mexico"
+        ],
+        "answer": "The East and the West Coast",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "The railroad went from coast to coast across the country."
+    },
+    {
+        "id": 179,
+        "question": "What did the Emancipation Proclamation do?",
+        "options": [
+            "Ended the Revolutionary War",
+            "Gave women the right to vote",
+            "Bought the Louisiana Territory",
+            "Declared enslaved people in the Confederate states to be free"
+        ],
+        "answer": "Declared enslaved people in the Confederate states to be free",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "Lincoln issued it in 1863 during the Civil War."
+    },
+    {
+        "id": 180,
+        "question": "Which side won the Civil War?",
+        "options": [
+            "The Union",
+            "The Confederacy",
+            "Great Britain",
+            "France"
+        ],
+        "answer": "The Union",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "This side was led by Abraham Lincoln."
+    },
+    {
+        "id": 181,
+        "question": "Which Confederate general surrendered at Appomattox Court House in 1865?",
+        "options": [
+            "Ulysses S. Grant",
+            "Robert E. Lee",
+            "Stonewall Jackson",
+            "William T. Sherman"
+        ],
+        "answer": "Robert E. Lee",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "He surrendered to Ulysses S. Grant."
+    },
+    {
+        "id": 182,
+        "question": "Which ancient trade route connected China to the Middle East and Europe?",
+        "options": [
+            "The Oregon Trail",
+            "The Santa Fe Trail",
+            "The Silk Road",
+            "The Erie Canal"
+        ],
+        "answer": "The Silk Road",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "This route was named after a valuable cloth from China."
+    },
+    {
+        "id": 183,
+        "question": "Which Chinese thinker taught respect for family, elders, and good government?",
+        "options": [
+            "Buddha",
+            "Socrates",
+            "Laozi",
+            "Confucius"
+        ],
+        "answer": "Confucius",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "His teachings are collected in a book called the Analects."
+    },
+    {
+        "id": 184,
+        "question": "Which religion was founded by Siddhartha Gautama?",
+        "options": [
+            "Buddhism",
+            "Hinduism",
+            "Islam",
+            "Judaism"
+        ],
+        "answer": "Buddhism",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "He became known as \"the Enlightened One.\""
+    },
+    {
+        "id": 185,
+        "question": "The ancient Indus Valley civilization grew up in which present-day countries?",
+        "options": [
+            "Egypt and Sudan",
+            "Pakistan and India",
+            "China and Mongolia",
+            "Iraq and Syria"
+        ],
+        "answer": "Pakistan and India",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "The Indus River flows through both of these countries."
+    },
+    {
+        "id": 186,
+        "question": "Which Greek philosopher was the teacher of Plato?",
+        "options": [
+            "Aristotle",
+            "Homer",
+            "Socrates",
+            "Pythagoras"
+        ],
+        "answer": "Socrates",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "He was put on trial in Athens and was sentenced to drink poison."
+    },
+    {
+        "id": 187,
+        "question": "Who is said to have written the epic poems the Iliad and the Odyssey?",
+        "options": [
+            "Plato",
+            "Sophocles",
+            "Virgil",
+            "Homer"
+        ],
+        "answer": "Homer",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "He was a Greek poet who, according to tradition, was blind."
+    },
+    {
+        "id": 188,
+        "question": "Before it had emperors, Rome was a government where citizens elected leaders. What was it called?",
+        "options": [
+            "A republic",
+            "A monarchy",
+            "A dictatorship",
+            "An empire"
+        ],
+        "answer": "A republic",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "Its name comes from Latin words meaning \"the people's thing.\""
+    },
+    {
+        "id": 189,
+        "question": "What did the ancient Romans build to carry water into their cities?",
+        "options": [
+            "Pyramids",
+            "Aqueducts",
+            "Ziggurats",
+            "Pagodas"
+        ],
+        "answer": "Aqueducts",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "These used gravity to move water through long channels."
+    },
+    {
+        "id": 190,
+        "question": "What were the stepped temple towers of Mesopotamia called?",
+        "options": [
+            "Pagodas",
+            "Obelisks",
+            "Sphinxes",
+            "Ziggurats"
+        ],
+        "answer": "Ziggurats",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "These were Mesopotamian temple towers."
+    },
+    {
+        "id": 191,
+        "question": "Ancient Egyptians made a kind of paper from a reed plant. What was it called?",
+        "options": [
+            "Papyrus",
+            "Bamboo",
+            "Silk",
+            "Parchment"
+        ],
+        "answer": "Papyrus",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "The English word \"paper\" comes from this word."
+    },
+    {
+        "id": 192,
+        "question": "Which young pharaoh's nearly untouched tomb was discovered in 1922?",
+        "options": [
+            "Ramses II",
+            "Tutankhamun",
+            "Khufu",
+            "Cleopatra"
+        ],
+        "answer": "Tutankhamun",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "People often call him \"King Tut.\""
+    },
+    {
+        "id": 193,
+        "question": "Who was the first emperor to unite all of China?",
+        "options": [
+            "Confucius",
+            "Kublai Khan",
+            "Qin Shi Huang",
+            "Liu Bang"
+        ],
+        "answer": "Qin Shi Huang",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "His tomb was guarded by the Terracotta Army."
+    },
+    {
+        "id": 194,
+        "question": "In which region did the Maya civilization develop?",
+        "options": [
+            "Northern Africa",
+            "Southern Europe",
+            "East Asia",
+            "Mexico and Central America"
+        ],
+        "answer": "Mexico and Central America",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "The Maya built pyramids in the Yucatán Peninsula."
+    },
+    {
+        "id": 195,
+        "question": "The Inca Empire was located in which mountain range?",
+        "options": [
+            "The Andes",
+            "The Rockies",
+            "The Alps",
+            "The Himalayas"
+        ],
+        "answer": "The Andes",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "Machu Picchu was built high in these South American mountains."
+    },
+    {
+        "id": 196,
+        "question": "What was the capital city of the Aztec Empire?",
+        "options": [
+            "Cusco",
+            "Tenochtitlan",
+            "Machu Picchu",
+            "Chichen Itza"
+        ],
+        "answer": "Tenochtitlan",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "Mexico City was built on top of this city."
+    },
+    {
+        "id": 197,
+        "question": "Which Spanish conquistador conquered the Aztec Empire?",
+        "options": [
+            "Francisco Pizarro",
+            "Hernando de Soto",
+            "Hernán Cortés",
+            "Juan Ponce de León"
+        ],
+        "answer": "Hernán Cortés",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "He landed in Mexico in 1519."
+    },
+    {
+        "id": 198,
+        "question": "According to legend, which Spanish explorer searched Florida for the Fountain of Youth?",
+        "options": [
+            "Hernán Cortés",
+            "Francisco Coronado",
+            "Hernando de Soto",
+            "Juan Ponce de León"
+        ],
+        "answer": "Juan Ponce de León",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "He was the first governor of Puerto Rico."
+    },
+    {
+        "id": 199,
+        "question": "What was the Underground Railroad?",
+        "options": [
+            "A secret network that helped enslaved people escape to freedom",
+            "The first subway in America",
+            "A railroad built under the Rocky Mountains",
+            "A train used during the Gold Rush"
+        ],
+        "answer": "A secret network that helped enslaved people escape to freedom",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "It was not really a railroad, and it was not really underground."
+    },
+    {
+        "id": 200,
+        "question": "The 1848 Seneca Falls Convention was a meeting about what?",
+        "options": [
+            "Building railroads",
+            "Women's rights",
+            "Ending the Civil War",
+            "The Gold Rush"
+        ],
+        "answer": "Women's rights",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "Elizabeth Cady Stanton helped organize it."
+    },
+    {
+        "id": 201,
+        "question": "What right did the 19th Amendment give to women?",
+        "options": [
+            "The right to own land",
+            "The right to go to school",
+            "The right to work",
+            "The right to vote"
+        ],
+        "answer": "The right to vote",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "This amendment was ratified in 1920."
+    },
+    {
+        "id": 202,
+        "question": "Who was the second President of the United States?",
+        "options": [
+            "John Adams",
+            "Thomas Jefferson",
+            "James Madison",
+            "Benjamin Franklin"
+        ],
+        "answer": "John Adams",
+        "category": "history",
+        "difficulty": "regular",
+        "hint": "He was the first Vice President."
+    },
+    {
+        "id": 203,
+        "question": "In what year was the U.S. Constitution signed?",
+        "options": [
+            "1776",
+            "1787",
+            "1791",
+            "1812"
+        ],
+        "answer": "1787",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "It was written at the Constitutional Convention in Philadelphia, a few years after the Revolutionary War ended."
+    },
+    {
+        "id": 204,
+        "question": "What was a major weakness of the Articles of Confederation?",
+        "options": [
+            "The President had too much power",
+            "Congress could not collect taxes",
+            "There were too many states",
+            "The Supreme Court was too strong"
+        ],
+        "answer": "Congress could not collect taxes",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "The national government had to ask the states for money."
+    },
+    {
+        "id": 205,
+        "question": "Which President signed the Indian Removal Act of 1830?",
+        "options": [
+            "Abraham Lincoln",
+            "Thomas Jefferson",
+            "Andrew Jackson",
+            "James Monroe"
+        ],
+        "answer": "Andrew Jackson",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "He was the seventh President and was nicknamed \"Old Hickory.\""
+    },
+    {
+        "id": 206,
+        "question": "Where was the golden spike driven to complete the transcontinental railroad in 1869?",
+        "options": [
+            "St. Louis, Missouri",
+            "Sacramento, California",
+            "Omaha, Nebraska",
+            "Promontory Summit, Utah"
+        ],
+        "answer": "Promontory Summit, Utah",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "The Central Pacific and Union Pacific railroads met in a territory north of Salt Lake City."
+    },
+    {
+        "id": 207,
+        "question": "Whose empire stretched from Greece all the way to India?",
+        "options": [
+            "Alexander the Great",
+            "Pericles",
+            "Julius Caesar",
+            "Leonidas"
+        ],
+        "answer": "Alexander the Great",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "He was a student of Aristotle, and he was from Macedonia."
+    },
+    {
+        "id": 208,
+        "question": "Which leader is known for the \"Golden Age\" of Athens?",
+        "options": [
+            "Leonidas",
+            "Pericles",
+            "Alexander the Great",
+            "Solon"
+        ],
+        "answer": "Pericles",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "He ordered the Parthenon to be built."
+    },
+    {
+        "id": 209,
+        "question": "Which Spartan king led the famous 300 Spartans at the Battle of Thermopylae?",
+        "options": [
+            "Xerxes",
+            "Darius",
+            "Leonidas",
+            "Pericles"
+        ],
+        "answer": "Leonidas",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "They fought against the Persian king Xerxes."
+    },
+    {
+        "id": 210,
+        "question": "Which Roman emperor made Christianity legal in the Roman Empire?",
+        "options": [
+            "Augustus",
+            "Nero",
+            "Caligula",
+            "Constantine"
+        ],
+        "answer": "Constantine",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "He also founded the city of Constantinople."
+    },
+    {
+        "id": 211,
+        "question": "In what year is the Western Roman Empire said to have fallen?",
+        "options": [
+            "A.D. 476",
+            "A.D. 1453",
+            "44 B.C.",
+            "A.D. 1066"
+        ],
+        "answer": "A.D. 476",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "This happened in the 400s."
+    },
+    {
+        "id": 212,
+        "question": "Which female pharaoh ruled Egypt and sent a famous trading expedition to the land of Punt?",
+        "options": [
+            "Cleopatra",
+            "Hatshepsut",
+            "Nefertiti",
+            "Isis"
+        ],
+        "answer": "Hatshepsut",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "She often wore a false beard in statues to show her power as pharaoh."
+    },
+    {
+        "id": 213,
+        "question": "The Rosetta Stone helped scholars learn to read which writing system?",
+        "options": [
+            "Cuneiform",
+            "Maya glyphs",
+            "Egyptian hieroglyphics",
+            "Linear B"
+        ],
+        "answer": "Egyptian hieroglyphics",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "It had the same text in Greek, which scholars could already read."
+    },
+    {
+        "id": 214,
+        "question": "During which Chinese dynasty was paper invented?",
+        "options": [
+            "Ming",
+            "Qin",
+            "Tang",
+            "Han"
+        ],
+        "answer": "Han",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "This dynasty's name is still used for the largest ethnic group in China."
+    },
+    {
+        "id": 215,
+        "question": "Which American victory in 1777 convinced France to join the Revolutionary War as an ally?",
+        "options": [
+            "Saratoga",
+            "Yorktown",
+            "Lexington",
+            "Trenton"
+        ],
+        "answer": "Saratoga",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "This victory in New York came in 1777."
+    },
+    {
+        "id": 216,
+        "question": "Which agreement at the Constitutional Convention created a Congress with a Senate and a House of Representatives?",
+        "options": [
+            "The Missouri Compromise",
+            "The Great Compromise",
+            "The Compromise of 1850",
+            "The Three-Fifths Compromise"
+        ],
+        "answer": "The Great Compromise",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "Large states and small states both got something they wanted."
+    },
+    {
+        "id": 217,
+        "question": "Which 1820 agreement admitted Missouri as a slave state and Maine as a free state?",
+        "options": [
+            "The Great Compromise",
+            "The Compromise of 1850",
+            "The Kansas-Nebraska Act",
+            "The Missouri Compromise"
+        ],
+        "answer": "The Missouri Compromise",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "It is named after the state that wanted to join the Union."
+    },
+    {
+        "id": 218,
+        "question": "In what year did Abraham Lincoln give the Gettysburg Address?",
+        "options": [
+            "1863",
+            "1861",
+            "1865",
+            "1776"
+        ],
+        "answer": "1863",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "It was given a few months after the battle of Gettysburg."
+    },
+    {
+        "id": 219,
+        "question": "The Civil War began with an attack on Fort Sumter in which state?",
+        "options": [
+            "Virginia",
+            "South Carolina",
+            "Maryland",
+            "Georgia"
+        ],
+        "answer": "South Carolina",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "It is in the state that was the first to secede."
+    },
+    {
+        "id": 220,
+        "question": "Who is known as the \"Father of the Constitution\"?",
+        "options": [
+            "George Washington",
+            "Alexander Hamilton",
+            "James Madison",
+            "Benjamin Franklin"
+        ],
+        "answer": "James Madison",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "He later became the fourth President."
+    },
+    {
+        "id": 221,
+        "question": "Who wrote the Federalist Papers?",
+        "options": [
+            "Jefferson, Adams, and Franklin",
+            "Washington, Madison, and Monroe",
+            "Franklin, Hancock, and Revere",
+            "Hamilton, Madison, and Jay"
+        ],
+        "answer": "Hamilton, Madison, and Jay",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "Three authors wrote under the shared pen name \"Publius.\""
+    },
+    {
+        "id": 222,
+        "question": "Which 1803 Supreme Court case gave the Court the power to strike down laws as unconstitutional?",
+        "options": [
+            "Marbury v. Madison",
+            "Dred Scott v. Sandford",
+            "Brown v. Board of Education",
+            "Plessy v. Ferguson"
+        ],
+        "answer": "Marbury v. Madison",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "William Marbury sued James Madison in this case."
+    },
+    {
+        "id": 223,
+        "question": "The ancient Phoenicians are best known for spreading what?",
+        "options": [
+            "Pyramid building",
+            "An early alphabet",
+            "Paper making",
+            "Gunpowder"
+        ],
+        "answer": "An early alphabet",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "These sea traders from the eastern Mediterranean used a set of letters."
+    },
+    {
+        "id": 224,
+        "question": "Which ancient people were among the first to worship only one God?",
+        "options": [
+            "The Egyptians",
+            "The Greeks",
+            "The Israelites",
+            "The Romans"
+        ],
+        "answer": "The Israelites",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "Their beliefs are recorded in the Hebrew Bible."
+    },
+    {
+        "id": 225,
+        "question": "Sargon of Akkad founded which of the world's first empires?",
+        "options": [
+            "The Babylonian Empire",
+            "The Persian Empire",
+            "The Assyrian Empire",
+            "The Akkadian Empire"
+        ],
+        "answer": "The Akkadian Empire",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "Its name comes from Sargon's capital city, Akkad."
+    },
+    {
+        "id": 226,
+        "question": "Which Portuguese explorer was the first European to sail around Africa and reach India?",
+        "options": [
+            "Vasco da Gama",
+            "Bartolomeu Dias",
+            "Ferdinand Magellan",
+            "Christopher Columbus"
+        ],
+        "answer": "Vasco da Gama",
+        "category": "history",
+        "difficulty": "hard",
+        "hint": "He reached India in 1498."
     }
 ]
