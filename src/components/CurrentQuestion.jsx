@@ -1,10 +1,12 @@
-import { useContext } from "react";
+import { useContext, useState} from "react";
 import { QuizContext } from '../QuizContext'
 
 
 function CurrentQuestion() {
 
     const {name, setName, questions, setQuestions, filteredQuestions, setFilteredQuestions, currentQuestionNumber, setCurrentQuestionNumber, setUserAnswers, isLoading, setIsLoading, error, setError} = useContext(QuizContext)
+
+    const [showHint, setShowHint] = useState(false)
 
     // function handleQuestionChange () {
     // setCurrentQuestionNumber((q) => q + 1)
@@ -20,6 +22,10 @@ function CurrentQuestion() {
     }
     console.log(filteredQuestions[currentQuestionNumber])
 
+    function handleHint () {
+        setShowHint((s) => !s)
+    }
+
     return (
     <>
         {isLoading ? 'Loading questions' : ''}
@@ -33,7 +39,9 @@ function CurrentQuestion() {
         {filteredQuestions[currentQuestionNumber]?.options.map((option, index) => <button key={index} className="p-10 bg-stone-200 text-2xl" onClick={() => handleAnswerSelection(option)}>{option}</button>)}
         </div>
 
-        Need a hint? {filteredQuestions[currentQuestionNumber]?.hint}
+        <button onClick={handleHint} aria-expanded={showHint}>{showHint ? 'Hide hint' : 'Show hint'}</button>
+        
+            {showHint && <p>{filteredQuestions[currentQuestionNumber]?.hint}</p>}
 
     </>
     )

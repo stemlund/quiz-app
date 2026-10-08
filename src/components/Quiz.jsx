@@ -9,7 +9,7 @@ function Quiz() {
         <>
             <h2>Hi {introAnswers[1]}</h2>
             <p>Let's do {introAnswers[3]} {introAnswers[2]}</p>
-            {currentQuestionNumber > filteredQuestions.length - 1 ? <Results /> : <CurrentQuestion/>}
+            {currentQuestionNumber > filteredQuestions.length - 1 ? <Results /> : <CurrentQuestion key={currentQuestionNumber}/>}
         </>
     )
 }
